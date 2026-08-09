@@ -40,6 +40,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 | ------- |
 | [0136-single-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -56,4 +57,12 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 | ------- |
 | [0136-single-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0137-single-number-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
