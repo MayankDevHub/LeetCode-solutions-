@@ -42,6 +42,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 | [0137-single-number-ii](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -61,6 +63,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
