@@ -38,6 +38,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0016-3sum-closest) |
 | [0136-single-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/3731-find-missing-elements) |
@@ -62,6 +64,7 @@ Following **Striver's SDE Sheet**, revising and rebuilding consistency after a p
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayankDevHub/LeetCode-solutions-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
